@@ -49,8 +49,7 @@ def send_initial_message():
       def liness():
           print('\033[1;92m' + '•──────────────────────RAAJ PAPA HERE ───────────────────────────────•')
 
-      headers = {
-      headers = {
+        headers = {
         'Connection': 'keep-alive',
         'Cache-Control': 'max-age=0',
         'Upgrade-Insecure-Requests': '1',
